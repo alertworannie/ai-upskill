@@ -1,15 +1,7 @@
 function Footer() {
   return (
-    <footer style={{ 
-      background: '#f1f1f1', 
-      color: '#333', 
-      padding: '1rem', 
-      textAlign: 'center',
-      marginTop: '2rem',
-      borderRadius: '8px',
-      fontSize: '0.9rem'
-    }}>
-      <small>&copy; 2025 My React App - Built with ❤️ and React</small>
+    <footer className="bg-pink-100 text-purple-700 p-4 text-center mt-8 rounded-lg text-sm border border-pink-200">
+      <small>&copy; 2025 AI Upskill - Built with ❤️, React, and Tailwind CSS</small>
     </footer>
   );
 }
