@@ -1,6 +1,6 @@
-# AI Upskill Projects
+# AI Upskill
 
-This repository contains various projects and exercises for AI and web development upskilling.
+Level up my AI skill through various projects and exercises for AI and web development.
 
 ## Projects
 
