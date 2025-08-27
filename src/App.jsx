@@ -1,9 +1,12 @@
 import Header from './components/Header';
 import Footer from './components/Footer';
+import BackgroundElements from './components/BackgroundElements';
 
 function App() {
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+    <>
+      <BackgroundElements />
+      <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <Header />
       
       <main style={{ 
@@ -69,7 +72,8 @@ function App() {
       </main>
       
       <Footer />
-    </div>
+      </div>
+    </>
   );
 }
 

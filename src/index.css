@@ -35,38 +35,6 @@ body {
   overflow-x: hidden;
 }
 
-body::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('./assets/detective.svg');
-  background-size: 300px 450px;
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  opacity: 0.08;
-  z-index: -1;
-  pointer-events: none;
-}
-
-body::after {
-  content: '';
-  position: fixed;
-  top: 20%;
-  left: -10%;
-  width: 200px;
-  height: 300px;
-  background-image: url('./assets/detective.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.05;
-  z-index: -1;
-  pointer-events: none;
-  transform: rotate(-15deg);
-}
-
 #root {
   max-width: 1280px;
   margin: 0 auto;

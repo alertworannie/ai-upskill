@@ -54,7 +54,7 @@ ai-upskill/
 ├── src/
 │   ├── assets/          # Static assets (detective SVG, images, etc.)
 │   │   ├── detective.svg
-│   │   └── detective-bg.jpg
+│   │   └── detective-bg.png
 │   ├── components/      # Reusable React components
 │   │   ├── Header.jsx
 │   │   └── Footer.jsx
