@@ -9,7 +9,7 @@ function Header() {
       borderRadius: '8px',
       boxShadow: '0 4px 15px rgba(0, 0, 0, 0.2)'
     }}>
-      <h2>🔍 Detective React App 🕵️‍♀️</h2>
+      <h2>🔍 AI Upskill - Detective React App 🕵️‍♀️</h2>
       <p>Built with Vite and React - Solving mysteries with code!</p>
     </header>
   );
