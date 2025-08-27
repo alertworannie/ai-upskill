@@ -22,12 +22,12 @@ function App() {
           WebkitBackgroundClip: 'text',
           WebkitTextFillColor: 'transparent'
         }}>
-          Hello World! 🌍
+          Hello Detective World! 🕵️‍♀️🌍
         </h1>
         
         <p style={{ fontSize: '1.2rem', marginBottom: '2rem', maxWidth: '600px' }}>
-          Welcome to your new React app. This is a modern setup using Vite for fast development 
-          and React 19 with the latest best practices.
+          Welcome to your detective-themed React app! This is a modern setup using Vite for fast development 
+          and React 19 with the latest best practices. The mystery of modern web development awaits! 🔍
         </p>
         
         <div style={{ 
