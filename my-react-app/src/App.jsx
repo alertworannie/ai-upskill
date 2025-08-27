@@ -27,7 +27,7 @@ function App() {
         
         <p style={{ fontSize: '1.2rem', marginBottom: '2rem', maxWidth: '600px' }}>
           Welcome to your new React app. This is a modern setup using Vite for fast development 
-          and React 18 with the latest best practices.
+          and React 19 with the latest best practices.
         </p>
         
         <div style={{ 
@@ -52,7 +52,7 @@ function App() {
             borderRadius: '8px',
             minWidth: '200px'
           }}>
-            <h3>⚛️ React 18</h3>
+            <h3>⚛️ React 19</h3>
             <p>Latest React features</p>
           </div>
           

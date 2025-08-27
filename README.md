@@ -7,7 +7,7 @@ Level up my AI skill through various projects and exercises for AI and web devel
 ### My React App
 A modern React application built with Vite, featuring:
 - ⚡ Lightning-fast development with Vite
-- ⚛️ React 18 with latest features
+- ⚛️ React 19 with latest features
 - 📁 Clean, organized file structure
 - 🎨 Modern responsive design
 - 🔧 ESLint for code quality
@@ -29,7 +29,7 @@ npm run dev
 
 ## Technologies Used
 
-- React 18
+- React 19
 - Vite
 - JavaScript/JSX
 - CSS3

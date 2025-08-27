@@ -5,7 +5,7 @@ A modern React application built with Vite for fast development and optimized pr
 ## Features
 
 - ⚡ **Vite** - Lightning fast build tool
-- ⚛️ **React 18** - Latest React features
+- ⚛️ **React 19** - Latest React features
 - 📁 **Clean Structure** - Organized file layout with components, assets, and hooks directories
 - 🎨 **Modern UI** - Responsive design with clean styling
 - 🔧 **ESLint** - Code linting for better code quality
